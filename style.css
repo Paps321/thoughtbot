@@ -1,0 +1,21 @@
+.bet:hover{
+text-decoration: underline;
+color: red;
+}
+.ben{
+    margin-left: 100px;
+}
+.svg {
+    width: 100px;
+}
+.but{
+    margin-left: 100px;
+}
+.bun:hover{
+    text-decoration: none;
+
+}
+
+a {
+    text-decoration: none;
+}
